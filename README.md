@@ -7,5 +7,7 @@ Give a descriptive message to your changeset, and click the Commit button, make 
 After you have committed your changes, you must sync them to your repository.
 
 # Tests
+```
 testIsPrime
 testfirst10DigitPrimeInString
+```
